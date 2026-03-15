@@ -34,13 +34,13 @@ portrait_caption: >-
 
 education:
   - name: Shenzhen University
-    logo: /assets/images/badges/SZU.svg
+    logo: /assets/images/badges/SZU.png
     position: >- 
       Computer Science and Technology <br/>
       Ph.D. Student
     date: 2025 - present
   - name: Shenzhen University
-    logo: /assets/images/badges/SZU.svg
+    logo: /assets/images/badges/SZU.png
     position: M.S. in Computer Science and Technology
     date: 2023 - 2025
   - name: Shanghai Maritime University
