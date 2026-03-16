@@ -11,5 +11,5 @@ authors:
 - Pengfei Xu#
 - Hui Huang
 links:
-  Paper: https://diglib.eg.org/items/330820c0-ce30-4c2e-8d58-ce86b4eed019
+  Project: https://doudin404.github.io/SPLICE-page/
 ---

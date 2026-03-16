@@ -12,5 +12,5 @@ authors:
 - Pengfei Xu#
 - Hui Huang
 links:
-  Arxiv: https://arxiv.org/abs/2503.23752
+  Project: https://doudin404.github.io/StrokeFusion-page/
 ---
